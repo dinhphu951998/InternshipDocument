@@ -1,0 +1,13 @@
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy\bin\Debug\ConsoleApplicationDemoNancy.exe.config
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy\bin\Debug\ConsoleApplicationDemoNancy.exe
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy\bin\Debug\ConsoleApplicationDemoNancy.pdb
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy\bin\Debug\Nancy.dll
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy\bin\Debug\Nancy.Hosting.Self.dll
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy\bin\Debug\Nancy.xml
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy\bin\Debug\Nancy.Hosting.Self.xml
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy\obj\Debug\ConsoleApplicationDemoNancy.csprojResolveAssemblyReference.cache
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy\obj\Debug\ConsoleApplicationDemoNancy.exe
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy\obj\Debug\ConsoleApplicationDemoNancy.pdb
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy\bin\Debug\Newtonsoft.Json.dll
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy\bin\Debug\Newtonsoft.Json.pdb
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy\bin\Debug\Newtonsoft.Json.xml

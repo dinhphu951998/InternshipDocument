@@ -1,0 +1,22 @@
+server=SGH451QS4F\SQLEXPRESS;database=IzendaConfigDb;User Id=sa;Password=zaQ@1234
+
+username: IzendaAdmin
+pass: IzendaAdmin123
+
+---------------------------------------------------------------------------------------------
+License
+a+7VXkmpyIZWRIN97TBc01LaB4ERIb1pI32qYkpMMMUtFdRnvyo4UbahXarBGy/ZgpKnQV6Bu/0FAujDnK6T2ogq1yADCV3c0spBHoMwqZnJH4BkAzNml1XuGcoB9m619mC13vtaPpovWuk1XZ04EeIDT739tUAiKbZDpQq1BgiSCaVrk/Q/Z42qJn3Q5FwhmgsiVcNGGjlSrcVxapec5jLLpil+F1M2SDdmDnDOTdJhh27+CRSD9ICk3prwfbsG3H4HT7Np51ozo29X9YeIweJywKCHV333oSigum3XjAhkX8ykDXJLwpM37uqvy/x2V5OJrxVq6PWUnzEO4sX30Vg5Db/V5iQBxOHSB4sektbpvxKHLggNJkfa4BJWGvRIFFUJQfCNLQm0X/ifFVlDOw==
+
+Token
+ClC3k+LdQiDtMt+oIkEJPPPFhUIHAWoG07xNUEwyJy8ENbo4g+NaHnDZNwwxIu214nuKtavBUktp786dKqYbWrfsmwhATNdQgDJB+zV6ZxzTUxUbCqh6pSUVZA/UV96lb88bwoPmUnMoBGfbES3tRLaSMSNxaOd4tgf6Tr+bufTvauG4VgjGnGwct+aamN0dXT3HMVlBDPjSMeByeXQdsK3apL6uWuokFyr5ZybB+tT+hSy/BduBjZKYAW3u4e/tyUGujORbXzzsZL1HKw6nOQO6RZA7JCxFryKOH31ckeAPgjWDn0XeH8CrbBPgMS9G4veKypvat4u5B8vnbsrsUiS44Hcw5dAp4QPvCboGNpHmTPSYBSZsRmX4gOvvaanJedE7TM21Gf89Dgr03ga9r3Yc1YtYQtjFu2rGSLnyFFQ0h1n88/RvMkJRVK6S2XhzxQrk83gkZC5FoytVB+CjHjpXUArltsjDw2T1hkANao6iTHonwI9K4zRdVrlIAG4stB5MYExMOr1/Ya9UJ7IPPkixdjh8Gu8+yMIzNoJ4MARPyz8lnMr6USp8Zq91oWIfT6ziLImY4KbiUNdiXeBDaEIXZlxla3QPC8peEgw3on2i2lzrYLHPk4gElcKeTc3Iey7w87zxHyxUWCRGkGNzEu+cCirh1l+lYlKz/3PTN0Gg1JX//hBdz4d2j6FV8HLO7iv+r7+4etmy76J34lgPGjmkMVF6ynYbPRhdT0yLeDx2CeMM0XB0biEFCsr66Nvw6cNFowgCllAHuqHzDQ/xjFTq/jlC4lIMb7jdhZlmXX/2n2Hbs5FiVQUk1wHkAs1SkXhnYZ+pWXNqfaeiisdNJvsoFRSiEVSoUUHpt0rEaPWjBHmxBwFHxqRdYjjQUKYpSzbj51Fs5havIjAjQQf+lkYI0b/GoXwjYI0STubBOPlvEjwytEiWPRjH5+7hKnpy5tNWNX/bOnVAHEisMCPhO2/25EIIfCCZ/7pwj6YNsB1I1x1TBVf8npLc+hK46Ex68vLL8f4H/tPGuhmmJdnOcLiarulo7nITXWXJL+chX6VLAgBI7TYq4tSWH5j57OuVsiSZ7nzSJMni4tmEEJ5mm8PMpKq7fbfcQXma+gwLh6kYB5RWpoqjIR9xaZ6d9/4gQ07xe8PfKp6bkPr5SOOVAb9Ro2EUtsLfxJyrjzc2e43n1pwfABMu6RBVqnXjjMpuTy7VqDPC/0TLpl9uXcMfiOInXDVDr9b6FtoYPsATkisgEmy2my3T46910VUc63X0poQO5mmOQPUOTYaOWXlhV5oEEBANqxXV/DR7f3O4FVJjG/FZjiJAGBr2n9pp2NHLJnPR74tde5+F3/J8H57GgS1/qs0ou8zwpbX9SBd+sQU=
+
+server=2PWQBH2\SQLEXPRESS;database=Northwind-BA;User Id=sa;Password=12345truongAN;
+
+tại sao k sử dụng int để tăng performance
+tại sao k nối các relationship
+
+
+server=SGH451QS4F\SQLEXPRESS;database=Northwind;User Id=sa;Password=zaQ@1234;
+
+server=SGH451QS4F\SQLEXPRESS;database=IzendaConfigDb;User Id=sa;Password=zaQ@1234;
+	

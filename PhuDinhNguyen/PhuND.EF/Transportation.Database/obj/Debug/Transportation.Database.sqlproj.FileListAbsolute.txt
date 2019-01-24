@@ -1,0 +1,5 @@
+D:\PhuDinhNguyen\PhuND.EF\Transportation.Database\bin\Debug\Transportation.Database.dacpac
+D:\PhuDinhNguyen\PhuND.EF\Transportation.Database\bin\Debug\Transportation.Database.dll
+D:\PhuDinhNguyen\PhuND.EF\Transportation.Database\bin\Debug\Transportation.Database.pdb
+D:\PhuDinhNguyen\PhuND.EF\Transportation.Database\obj\Debug\Transportation.Database.dll
+D:\PhuDinhNguyen\PhuND.EF\Transportation.Database\obj\Debug\Transportation.Database.pdb

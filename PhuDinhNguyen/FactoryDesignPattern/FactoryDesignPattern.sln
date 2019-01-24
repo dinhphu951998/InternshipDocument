@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPatternExample-Transportation", "FactoryPatternExample-Transportation\FactoryPatternExample-Transportation.csproj", "{EA057C7C-FBB5-481E-88FF-A6ABA5557369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "..\..\DesignPattern\DesignPatterns\FactoryPattern\FactoryPattern.csproj", "{F20AD4DC-1F95-469A-ABAB-1BC9F94BFD6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA057C7C-FBB5-481E-88FF-A6ABA5557369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA057C7C-FBB5-481E-88FF-A6ABA5557369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA057C7C-FBB5-481E-88FF-A6ABA5557369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA057C7C-FBB5-481E-88FF-A6ABA5557369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20AD4DC-1F95-469A-ABAB-1BC9F94BFD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20AD4DC-1F95-469A-ABAB-1BC9F94BFD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20AD4DC-1F95-469A-ABAB-1BC9F94BFD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20AD4DC-1F95-469A-ABAB-1BC9F94BFD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

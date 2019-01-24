@@ -1,0 +1,6 @@
+D:\PhuDinhNguyen\FactoryDesignPattern\FactoryPatternExample-Transportation\bin\Debug\FactoryPatternExample-Transportation.exe.config
+D:\PhuDinhNguyen\FactoryDesignPattern\FactoryPatternExample-Transportation\bin\Debug\FactoryPatternExample-Transportation.exe
+D:\PhuDinhNguyen\FactoryDesignPattern\FactoryPatternExample-Transportation\bin\Debug\FactoryPatternExample-Transportation.pdb
+D:\PhuDinhNguyen\FactoryDesignPattern\FactoryPatternExample-Transportation\obj\Debug\FactoryPatternExample-Transportation.csprojResolveAssemblyReference.cache
+D:\PhuDinhNguyen\FactoryDesignPattern\FactoryPatternExample-Transportation\obj\Debug\FactoryPatternExample-Transportation.exe
+D:\PhuDinhNguyen\FactoryDesignPattern\FactoryPatternExample-Transportation\obj\Debug\FactoryPatternExample-Transportation.pdb

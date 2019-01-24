@@ -1,0 +1,7 @@
+D:\Miscellaneous\DesignPatternMiscellanneous\PhuND.TemplatePattern\bin\Debug\PhuND.TemplatePattern.exe.config
+D:\Miscellaneous\DesignPatternMiscellanneous\PhuND.TemplatePattern\bin\Debug\PhuND.TemplatePattern.exe
+D:\Miscellaneous\DesignPatternMiscellanneous\PhuND.TemplatePattern\bin\Debug\PhuND.TemplatePattern.pdb
+D:\Miscellaneous\DesignPatternMiscellanneous\PhuND.TemplatePattern\obj\Debug\PhuND.TemplatePattern.csprojAssemblyReference.cache
+D:\Miscellaneous\DesignPatternMiscellanneous\PhuND.TemplatePattern\obj\Debug\PhuND.TemplatePattern.csproj.CoreCompileInputs.cache
+D:\Miscellaneous\DesignPatternMiscellanneous\PhuND.TemplatePattern\obj\Debug\PhuND.TemplatePattern.exe
+D:\Miscellaneous\DesignPatternMiscellanneous\PhuND.TemplatePattern\obj\Debug\PhuND.TemplatePattern.pdb

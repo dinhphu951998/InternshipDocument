@@ -1,0 +1,13 @@
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy - Copy\bin\Debug\ConsoleApplicationDemoNancy.exe.config
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy - Copy\obj\Debug\ConsoleApplicationDemoNancy.exe
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy - Copy\obj\Debug\ConsoleApplicationDemoNancy.pdb
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy - Copy\bin\Debug\ConsoleApplicationDemoNancy.exe
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy - Copy\bin\Debug\ConsoleApplicationDemoNancy.pdb
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy - Copy\bin\Debug\Nancy.dll
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy - Copy\bin\Debug\Nancy.Hosting.Self.dll
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy - Copy\bin\Debug\Newtonsoft.Json.dll
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy - Copy\bin\Debug\Nancy.xml
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy - Copy\bin\Debug\Nancy.Hosting.Self.xml
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy - Copy\bin\Debug\Newtonsoft.Json.pdb
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\PhuDinhNguyen\PhuND.Rest.Practice\ConsoleApplicationDemoNancy - Copy\obj\Debug\ConsoleApplicationDemoNancy.CustomRouting.csprojResolveAssemblyReference.cache
